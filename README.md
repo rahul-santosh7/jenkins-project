@@ -28,4 +28,3 @@ Note:
 By default, your Jenkins runs at https://localhost:8080/. This can be changed by editing jenkins.xml , which is located in your installation directory. This file is also the place to change other boot configuration parameters, such as JVM options, HTTPS setup, etc.
 
 User Name: Rahul _santosh
-Password: November@2k23
